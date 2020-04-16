@@ -122,7 +122,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>-alcbeta -lilubetaall</string>
+		<string>-lilubetaall brcmfx-country=#a</string>
 		<key>CustomLogo</key>
 		<string>Theme</string>
 		<key>Debug</key>
@@ -154,7 +154,7 @@
 			<key>Inject</key>
 			<integer>66</integer>
 			<key>ResetHDA</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>Properties</key>
 		<dict>
