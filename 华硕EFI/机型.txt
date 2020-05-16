@@ -1,0 +1,5 @@
+system product name：MacBook pro 15，2
+system serial number：C02XNMZPJHCC
+system UUID：15EBA50A-E488-5308-BF75-0AD5B652033A
+mlb：C02845200CDJH4RFB
+rom：1DAA79E52812
